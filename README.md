@@ -47,3 +47,4 @@ Note that you should install the following resources in order to run the game.
 - GIRA TEST
 - 이슈에 코멘트 남기기
 - 이슈에 코멘트 남기기 #2
+- 이슈 상태 전이 In-Progress
